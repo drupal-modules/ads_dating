@@ -1,4 +1,4 @@
-ads_dating
-==========
+ads_animals
+===========
 
-Provides common Dating features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
